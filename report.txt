@@ -1,0 +1,132 @@
+2022-12-19
+1001,1,1,400
+1001,1,2,400
+1002,1,3,400
+1002,2,4,100
+1002,2,5,100
+we have 5 orders
+
+Omar,20218001,ain_shams,01151784181,1000.0
+Mrwan,20218002,Abaasia,01148623497,800.0
+we have 2 employee_regstraions
+
+Mohamed,1001,Ramsis,01155770105,20,0
+Mahmoud,1002,maadi,011563570105,30,0
+Malak,1003,helwan,01204837272,45,0
+we have 3 customers_regstraions
+
+we have 10 transactions today
+see you soon😁😁2022-12-19
+1001,1,1,400
+1001,1,2,400
+1002,1,3,400
+1002,2,4,100
+1002,2,5,100
+1001,1,1,400
+1001,1,2,400
+1002,1,3,400
+1002,2,4,100
+1002,2,5,100
+we have 10 orders
+
+Omar,20218001,ain_shams,01151784181,1000.0
+Mrwan,20218002,Abaasia,01148623497,800.0
+we have 2 employee_regstraions
+
+Mohamed,1001,Ramsis,01155770105,20,0
+Mahmoud,1002,maadi,011563570105,30,0
+Malak,1003,helwan,01204837272,45,0
+we have 3 customers_regstraions
+
+we have 15 transactions today
+see you soon😁😁2022-12-19
+1001,1,1,400
+1001,1,2,400
+1002,1,3,400
+1002,2,4,100
+1002,2,5,100
+we have 5 orders
+
+Omar,20218001,ain_shams,01151784181,1000.0
+Mrwan,20218002,Abaasia,01148623497,800.0
+we have 2 employee_regstraions
+
+Mohamed,1001,Ramsis,01155770105,20,0
+Mahmoud,1002,maadi,011563570105,30,0
+Malak,1003,helwan,01204837272,45,0
+we have 3 customers_regstraions
+
+we have 10 transactions today
+see you soon😁😁2022-12-19
+1001,1,1,400
+1001,1,2,400
+1002,1,3,400
+1002,2,4,100
+1002,2,5,100
+we have 5 orders
+
+Omar,20218001,ain_shams,01151784181,1000.0
+Mrwan,20218002,Abaasia,01148623497,800.0
+we have 2 employee_regstraions
+
+Mohamed,1001,Ramsis,01155770105,20,0
+Mahmoud,1002,maadi,011563570105,30,0
+Malak,1003,helwan,01204837272,45,0
+we have 3 customers_regstraions
+
+we have 10 transactions today
+see you soon😁😁2022-12-19
+1001,1,1,400
+1001,1,2,400
+1002,1,3,400
+1002,2,4,100
+1002,2,5,100
+we have 5 orders
+
+Omar,20218001,ain_shams,01151784181,1000.0
+Mrwan,20218002,Abaasia,01148623497,800.0
+we have 2 employee_regstraions
+
+Mohamed,1001,Ramsis,01155770105,20,0
+Mahmoud,1002,maadi,011563570105,30,0
+Malak,1003,helwan,01204837272,45,0
+we have 3 customers_regstraions
+
+we have 10 transactions today
+see you soon😁😁2022-12-19
+1001,1,1,400
+1001,1,2,400
+1002,1,3,400
+1002,2,4,100
+1002,2,5,100
+we have 5 orders
+
+Omar,20218001,ain_shams,01151784181,1000.0
+Mrwan,20218002,Abaasia,01148623497,800.0
+we have 2 employee_regstraions
+
+Mohamed,1001,Ramsis,01155770105,20,0
+Mahmoud,1002,maadi,011563570105,30,0
+Malak,1003,helwan,01204837272,45,0
+we have 3 customers_regstraions
+
+we have 10 transactions today
+see you soon😁😁2022-12-19
+1001,1,1,400
+1001,1,2,400
+1002,1,3,400
+1002,2,4,100
+1002,2,5,100
+we have 5 orders
+
+Omar,20218001,ain_shams,01151784181,1000.0
+Mrwan,20218002,Abaasia,01148623497,800.0
+we have 2 employee_regstraions
+
+Mohamed,1001,Ramsis,01155770105,20,0
+Mahmoud,1002,maadi,011563570105,30,0
+Malak,1003,helwan,01204837272,45,0
+we have 3 customers_regstraions
+
+we have 10 transactions today
+see you soon😁😁
